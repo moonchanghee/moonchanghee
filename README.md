@@ -1,6 +1,6 @@
-<a href="https://velog.io/@moonchanghee"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<!-- <a href="https://velog.io/@moonchanghee"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/choidy180@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> -->
-<a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&width=100%&height=200&section=header&text=ChangHee Moon, Web Developep&fontAlignY=55&fontSize=40&animation=fadeIn&fontColor=141414"/>
 
